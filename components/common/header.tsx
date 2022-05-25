@@ -7,7 +7,7 @@ const Header = ({ children }: { children: React.ReactNode }) => {
         <a href="#home" className="link">
           <Image
             src="/logo.svg"
-            alt="Logo - Ayush Singh"
+            alt="Logo - Naboni Abebe"
             width={22}
             height={22}
           />

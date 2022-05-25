@@ -1,8 +1,8 @@
 export const METADATA = {
-  title: "Portfolio | Ayush Singh",
+  title: "Portfolio | Naboni Abebe",
   description:
-    "I bridge the gap between design and development. I take responsibility to craft an aesthetic user experience using modern frontend architecture.",
-  siteUrl: "https://ayushsingh.net/",
+    "I am a passionate Software Engineer who has experience developing Enterprise projects.",
+  siteUrl: "https://naboni-portfolio.vercel.app/",
 };
 
 export const MENULINKS = [
@@ -18,10 +18,10 @@ export const MENULINKS = [
     name: "Skills",
     ref: "skills",
   },
-  {
-    name: "Timeline",
-    ref: "timeline",
-  },
+  // {
+  //   name: "Timeline",
+  //   ref: "timeline",
+  // },
   {
     name: "Contact",
     ref: "contact",
@@ -35,7 +35,7 @@ export const TYPED_STRINGS = [
   "I design and develop mobile applications",
 ];
 
-export const EMAIL = "ayush.singh.xda@gmail.com";
+export const EMAIL = "se.naboni.abebe@gmail.com";
 
 export const SOCIAL_LINKS = {
   linkedin: "https://www.linkedin.com/in/naboni-abebe-5586341a1/",
