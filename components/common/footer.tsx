@@ -45,7 +45,7 @@ const Footer = () => {
     </>
   );
 
-  const { ref: footerRef } = MENULINKS[4];
+  const { ref: footerRef } = MENULINKS[3];
 
   return (
     <footer className="w-full relative select-none bg-cover" id={footerRef}>
